@@ -1,4 +1,3 @@
-<script>
 <?php 
 
 ob_start();
@@ -8,8 +7,6 @@ ob_end_flush();
 
 
 ?>
-
-</script>
 
 
 <!DOCTYPE html>
